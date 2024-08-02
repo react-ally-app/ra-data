@@ -1,0 +1,257 @@
+{
+  "name": "React Ally",
+  "modules": [
+    {
+      "name": "Introduction",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "1.1",
+          "name": "Quick Start",
+          "url": "http://192.168.29.80:3000/content/1/1"
+        },
+        {
+          "sno": "1.2",
+          "name": "How does React Works",
+          "url": "http://192.168.29.80:3000/content/1/2"
+        },
+        {
+          "sno": "1.3",
+          "name": "Add React to a Website",
+          "url": "http://192.168.29.80:3000/content/1/3"
+        },
+        {
+          "sno": "1.4",
+          "name": "Installation and Setup",
+          "url": "http://192.168.29.80:3000/content/1/4"
+        },
+        {
+          "sno": "1.5",
+          "name": "JSX",
+          "url": "http://192.168.29.80:3000/content/1/5"
+        },
+        {
+          "sno": "1.6",
+          "name": "Components and Props",
+          "url": "http://192.168.29.80:3000/content/1/6"
+        },
+        {
+          "sno": "1.7",
+          "name": "More on Components",
+          "url": "http://192.168.29.80:3000/content/1/7"
+        }
+      ]
+    },
+    {
+      "name": "Main concepts",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "2.1",
+          "name": "State",
+          "url": "http://192.168.29.80:3000/content/2/1"
+        },
+        {
+          "sno": "2.2",
+          "name": "Lifecycle",
+          "url": "http://192.168.29.80:3000/content/2/2"
+        },
+        {
+          "sno": "2.3",
+          "name": "Lifecycle Methods",
+          "url": "http://192.168.29.80:3000/content/2/3"
+        },
+        {
+          "sno": "2.4",
+          "name": "Handling Events",
+          "url": "http://192.168.29.80:3000/content/2/4"
+        },
+        {
+          "sno": "2.5",
+          "name": "List and Keys",
+          "url": "http://192.168.29.80:3000/content/2/5"
+        },
+        {
+          "sno": "2.6",
+          "name": "Forms",
+          "url": "http://192.168.29.80:3000/content/2/6"
+        },
+        {
+          "sno": "2.7",
+          "name": "Sharing State Between Components",
+          "url": "http://192.168.29.80:3000/content/2/7"
+        },
+        {
+          "sno": "2.8",
+          "name": "Composition and Inheritance",
+          "url": "http://192.168.29.80:3000/content/2/8"
+        },
+        {
+          "sno": "2.9",
+          "name": "Conditional Rendering",
+          "url": "http://192.168.29.80:3000/content/2/9"
+        }
+      ]
+    },
+    {
+      "name": "Hooks",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "3.1",
+          "name": "Introduction to Hooks",
+          "url": "http://192.168.29.80:3000/content/3/1"
+        },
+        {
+          "sno": "3.2",
+          "name": "State Hooks",
+          "url": "http://192.168.29.80:3000/content/3/2"
+        },
+        {
+          "sno": "3.3",
+          "name": "Effect Hooks",
+          "url": "http://192.168.29.80:3000/content/3/3"
+        },
+        {
+          "sno": "3.4",
+          "name": "Context Hooks",
+          "url": "http://192.168.29.80:3000/content/3/4"
+        },
+        {
+          "sno": "3.5",
+          "name": "Ref Hooks",
+          "url": "http://192.168.29.80:3000/content/3/5"
+        },
+        {
+          "sno": "3.6",
+          "name": "useMemo",
+          "url": "http://192.168.29.80:3000/content/3/6"
+        },
+        {
+          "sno": "3.7",
+          "name": " useCallback",
+          "url": "http://192.168.29.80:3000/content/3/7"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Concepts",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "4.1",
+          "name": "Fragments",
+          "url": "http://192.168.29.80:3000/content/4/1"
+        },
+        {
+          "sno": "4.2",
+          "name": "Lazy and Suspense",
+          "url": "http://192.168.29.80:3000/content/4/2"
+        },
+        {
+          "sno": "4.3",
+          "name": "Error Boundaries",
+          "url": "http://192.168.29.80:3000/content/4/3"
+        },
+        {
+          "sno": "4.4",
+          "name": "Context in class",
+          "url": "http://192.168.29.80:3000/content/4/4"
+        },
+        {
+          "sno": "4.5",
+          "name": "Strict Mode",
+          "url": "http://192.168.29.80:3000/content/4/5"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Concepts - II",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "5.1",
+          "name": "Higher Order Components",
+          "url": "http://192.168.29.80:3000/content/5/1"
+        },
+        {
+          "sno": "5.2",
+          "name": "Portals",
+          "url": "http://192.168.29.80:3000/content/5/2"
+        },
+        {
+          "sno": "5.3",
+          "name": "Render Props",
+          "url": "http://192.168.29.80:3000/content/5/3"
+        },
+        {
+          "sno": "5.4",
+          "name": "Profiler",
+          "url": "http://192.168.29.80:3000/content/5/4"
+        },
+        {
+          "sno": "5.5",
+          "name": "Reconciliation",
+          "url": "http://192.168.29.80:3000/content/5/5"
+        },
+        {
+          "sno": "5.6",
+          "name": "Virtualization",
+          "url": "http://192.168.29.80:3000/content/5/6"
+        },
+        {
+          "sno": "5.7",
+          "name": "Optimizing Performance",
+          "url": "http://192.168.29.80:3000/content/5/7"
+        },
+        {
+          "sno": "5.8",
+          "name": "Creating Bundle and size analysis",
+          "url": "http://192.168.29.80:3000/content/5/8"
+        }
+      ]
+    },
+    {
+      "name": "API Reference",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "6.1",
+          "name": "ReactDOM",
+          "url": "http://192.168.29.80:3000/content/6/1"
+        },
+        {
+          "sno": "6.2",
+          "name": "ReactDOMClient",
+          "url": "http://192.168.29.80:3000/content/6/2"
+        },
+        {
+          "sno": "6.3",
+          "name": "ReactDOMServer",
+          "url": "http://192.168.29.80:3000/content/6/3"
+        },
+        {
+          "sno": "6.4",
+          "name": "DOM Elements",
+          "url": "http://192.168.29.80:3000/content/6/4"
+        },
+        {
+          "sno": "6.5",
+          "name": "Synthetic Event",
+          "url": "http://192.168.29.80:3000/content/6/5"
+        }
+      ]
+    },
+    {
+      "name": "The End",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "7.1",
+          "name": "Wrapping Up",
+          "url": "http://192.168.29.80:3000/content/7/1"
+        }
+      ]
+    }
+  ]
+}
