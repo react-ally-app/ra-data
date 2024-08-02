@@ -1,0 +1,39 @@
+{
+  "coding": [
+    {
+      "id": 1,
+      "name": "Mortgage Calculator",
+      "url": "/CodingRound/1",
+      "latest": false,
+      "upcoming": false
+    },
+    {
+      "id": 2,
+      "name": "Tabs Component",
+      "url": "/CodingRound/2",
+      "latest": false,
+      "upcoming": false
+    },
+    {
+      "id": 3,
+      "name": "Traffic Light",
+      "url": "/CodingRound/3",
+      "latest": false,
+      "upcoming": false
+    },
+    {
+      "id": 4,
+      "name": "Create Digital Clock",
+      "url": "/CodingRound/4",
+      "latest": false,
+      "upcoming": false
+    },
+    {
+      "id": 5,
+      "name": "Validate sign-up form",
+      "url": "/CodingRound/5",
+      "latest": false,
+      "upcoming": false
+    }
+  ]
+}
