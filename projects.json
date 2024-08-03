@@ -3,73 +3,86 @@
   "projects": [
     {
       "name": "Joke Generator",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/1",
       "img": "skull"
     },
     {
       "name": "QR Code Generator",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/2",
       "img": "qr-code-outline"
     },
     {
       "name": "To do Application",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/3",
       "img": "list-outline"
     },
     {
       "name": "Lap memory Stopwatch",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/4",
       "img": "alarm-outline"
     },
     {
       "name": "Guess the number",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/5",
       "img": "help"
     },
     {
       "name": "Bill-Invoice Generator",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/6",
       "img": "cash-outline"
     },
     {
       "name": "Expense Tracker",
-      "upcoming": false,
-      "latest": false,
+      "chip": null,
+      "disabled": false,
       "url": "/projects/7",
       "img": "logo-usd"
     },
     {
       "name": "Portfolio",
-      "upcoming": true,
-      "latest": false,
+      "chip": {
+        "text": "UPCOMING",
+        "chipTextColor": "heading",
+        "chipColor": ["#B24592", "#F15F79"]
+      },
+      "disabled": true,
       "url": "/projects/8",
-      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F719872940"
+      "img": ""
     },
     {
       "name": "Resume Builder",
-      "upcoming": true,
-      "latest": false,
+      "chip": {
+        "text": "UPCOMING",
+        "chipTextColor": "heading",
+        "chipColor": ["#B24592", "#F15F79"]
+      },
+      "disabled": true,
       "url": "/projects/9",
-      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F719872940"
+      "img": ""
     },
     {
       "name": "Markdown Editor",
-      "upcoming": true,
-      "latest": false,
+      "chip": {
+        "text": "UPCOMING",
+        "chipTextColor": "heading",
+        "chipColor": ["#B24592", "#F15F79"]
+      },
+      "disabled": true,
       "url": "/projects/10",
-      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F719872940"
+      "img": ""
     }
-  ]
+  ],
+  "newColor": ["#c2e59c", "#64b3f4"]
 }
