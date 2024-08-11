@@ -101,7 +101,7 @@
     {
       "title": "Introduction to Axios",
       "author": "sandy",
-      "content": " Axios is a popular JavaScript library used for making asynchronous HTTP requests from browsers and Node.js. It is designed to be lightweight, flexible, and easy to use, making it a preferred choice for developers when dealing with data fetching in web applications.",
+      "content": "Axios is a popular JavaScript library used for making asynchronous HTTP requests from browsers and Node.js. It is designed to be lightweight, flexible, and easy to use, making it a preferred choice for developers when dealing with data fetching in web applications.",
       "tags": ["axios", "http", "requests"],
       "url": "/article/15"
     },
@@ -115,7 +115,7 @@
     {
       "title": "Why React re-renders?",
       "author": "ryanShyan",
-      "content": " Reacts re-rendering behavior is a fundamental aspect of its efficient and declarative programming model. Understanding why and how React decides to re-render components is crucial f",
+      "content": "Reacts re-rendering behavior is a fundamental aspect of its efficient and declarative programming model. Understanding why and how React decides to re-render components is crucial f",
       "tags": ["react", "rendering"],
       "url": "/article/17"
     },
