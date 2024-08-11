@@ -122,7 +122,7 @@
     {
       "title": "Mastering Local Storage in React: Storing and Retrieving Data Efficiently",
       "author": "gyane1yuv",
-      "content": " Storing data in local storage is a common requirement in web applications, including those built with React. Local storage provides a simple way to persist user data locally within the browser, allowing applications to remember",
+      "content": "Storing data in local storage is a common requirement in web applications, including those built with React. Local storage provides a simple way to persist user data locally within the browser, allowing applications to remember",
       "tags": ["react", "local", "storage"],
       "url": "/article/18"
     },
