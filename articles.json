@@ -5,140 +5,140 @@
       "author": "ama@_123",
       "content": "React has revolutionized the way we build user interfaces since its introduction by Facebook in 2013. Its component-based architecture, virtual DOM, and declarative style have made it a go-to choice for developers. As React continues to evolve, it's essential to stay updated with the latest trends and best practices to maintain a competitive edge in the industry....",
       "tags": ["react", "practices", "trends"],
-      "url": "/article/1"
+      "url": "/article/1/react"
     },
     {
       "title": "The Importance of Component Reusability in React",
       "author": "asacore1",
       "content": "One of the core philosophies of React is its emphasis on building reusable components. This approach not only streamlines the development process but also significantly enhances the main...",
       "tags": ["reusability", "javascript"],
-      "url": "/article/2"
+      "url": "/article/2/react"
     },
     {
       "title": "Leveraging the Power of React Hooks",
       "author": "user265",
       "content": "Since their introduction in React 16.8, hooks have transformed the way developers build and manage state in functional components. Hooks provide a more elegant way to manage state an...",
       "tags": ["react", "hooks", "javascript"],
-      "url": "/article/3"
+      "url": "/article/3/react"
     },
     {
       "title": "The Role of Component Libraries in Modern React Development",
       "author": "louise_antony",
       "content": "In the fast-paced world of web development, efficiency and consistency are paramount. Component libraries in React play a crucial role in achieving these goals by providing pre-built, reu...",
       "tags": ["react", "component", "library"],
-      "url": "/article/4"
+      "url": "/article/4/react"
     },
     {
       "title": "Enhancing React Applications with Server-Side Rendering and Static Site Generation",
       "author": "guest@2503",
       "content": "As React continues to evolve, so does the ecosystem around it. A key development in recent years is the increasing importance of server-side rendering (SSR) and static site generation (SSG)...",
       "tags": ["react", "server-side", "rendering"],
-      "url": "/article/5"
+      "url": "/article/5/react"
     },
     {
       "title": "Enhancing React Applications with Effective State Management",
       "author": "john_pentol",
       "content": "As React applications grow in complexity, state management becomes a crucial aspect of ensuring maintainable and scalable code. While React's built-in state management capabilities a...",
       "tags": ["react", "state", "management"],
-      "url": "/article/6"
+      "url": "/article/6/react"
     },
     {
       "title": "Optimizing React Applications: Techniques for Enhanced Performance",
       "author": "saga_yomama",
       "content": "In the modern web development landscape, performance optimization is a crucial aspect of building scalable and efficient applications. React, as a popular library for building user interfaces, offers several to",
       "tags": ["react", "optimization", "performance"],
-      "url": "/article/7"
+      "url": "/article/7/react"
     },
     {
       "title": "Using Redux with React for Scalable Applications",
       "author": "ching_chou",
       "content": "As web applications grow in complexity, managing state effectively becomes crucial. Redux, a state management library for JavaScript applications, provides a predictable state container that simplifies the management of application state.",
       "tags": ["redux", "react", "state", "management"],
-      "url": "/article/8"
+      "url": "/article/8/react"
     },
     {
       "title": "Mastering Responsive Design in React: Techniques and Best Practices",
       "author": "guest@234",
       "content": "In modern web development, responsive design has become crucial for providing a seamless user experience across various devices. Responsive design ensures that web applications adapt and...",
       "tags": ["react", "responsive", "design"],
-      "url": "/article/9"
+      "url": "/article/9/react"
     },
     {
       "title": "Introduction to Web Accessibility",
       "author": "webyaml2",
       "content": "Web accessibility ensures that people with disabilities can perceive, understand, navigate, and interact with the web. It involves designing websites and applications to be usable by ever...",
       "tags": ["web", "accessibility", "design"],
-      "url": "/article/10"
+      "url": "/article/10/react"
     },
     {
       "title": "Progressive Web Apps (PWAs)",
       "author": "leet@wore",
       "content": "Progressive Web Apps (PWAs) combine the best of web and mobile apps, offering enhanced capabilities, reliability, and installability while reaching anyone, anywhere, on any device with a single codebase. PWAs use modern web capabilities to deliver an app-like experience to users, enabling faster",
       "tags": ["web", "apps"],
-      "url": "/article/11"
+      "url": "/article/11/react"
     },
     {
       "title": "The Role of Testing in React Development",
       "author": "guest_565",
       "content": "Testing is an integral part of React development, ensuring that applications are robust, reliable, and maintainable. By writing tests, developers can catch bugs early, simplify refactoring, an",
       "tags": ["react", "testing"],
-      "url": "/article/12"
+      "url": "/article/12/react"
     },
     {
       "title": "Enhancing User Experience with Animations in React",
       "author": "batch_2021",
       "content": "Animations can greatly enhance the user experience of web applications, making them more interactive and engaging. React, with its powerful component-based architecture, offers various ways to implement animations. This article explores how to add animations to your React applications using different techniques and libraries.",
       "tags": ["react", "animations", "user", "experience"],
-      "url": "/article/13"
+      "url": "/article/13/react"
     },
     {
       "title": "Simplifying Form Management in React with Popular Libraries",
       "author": "tory@Loe",
       "content": "Creating forms in React applications can be complex, especially when dealing with validation, dynamic fields, and other advanced features. Form libraries come to the rescue by providing a range of tools and components to handle form creation and management efficiently. This article delves into the importance of using form libraries in React and highlights some popular options available.",
       "tags": ["react", "forms", "libraries"],
-      "url": "/article/14"
+      "url": "/article/14/react"
     },
     {
       "title": "Introduction to Axios",
       "author": "sandy",
       "content": "Axios is a popular JavaScript library used for making asynchronous HTTP requests from browsers and Node.js. It is designed to be lightweight, flexible, and easy to use, making it a preferred choice for developers when dealing with data fetching in web applications.",
       "tags": ["axios", "http", "requests"],
-      "url": "/article/15"
+      "url": "/article/15/react"
     },
     {
       "title": "Common Mistakes Beginners Make in React and How to Avoid Them",
       "author": "developer67",
       "content": "React is a powerful JavaScript library, but it can be challenging for beginners to grasp its concepts fully. Here are some common mistakes that beginners often make when starting with React development:",
       "tags": ["react", "beginners", "mistakes"],
-      "url": "/article/16"
+      "url": "/article/16/react"
     },
     {
       "title": "Why React re-renders?",
       "author": "ryanShyan",
       "content": "Reacts re-rendering behavior is a fundamental aspect of its efficient and declarative programming model. Understanding why and how React decides to re-render components is crucial f",
       "tags": ["react", "rendering"],
-      "url": "/article/17"
+      "url": "/article/17/react"
     },
     {
       "title": "Mastering Local Storage in React: Storing and Retrieving Data Efficiently",
       "author": "gyane1yuv",
       "content": "Storing data in local storage is a common requirement in web applications, including those built with React. Local storage provides a simple way to persist user data locally within the browser, allowing applications to remember",
       "tags": ["react", "local", "storage"],
-      "url": "/article/18"
+      "url": "/article/18/react"
     },
     {
       "title": "Pitfalls of Passing Refs in Dependency Arrays",
       "author": "lama",
       "content": "In React functional components, 'useEffect' and other hooks provide powerful ways to manage side effects and state. One common mistake developers make is including refs in the dependency array ('deps') of these hooks. This article explores why this practice can lead to unintended consequences and how to avoid them.",
       "tags": ["react", "hooks", "useEffect"],
-      "url": "/article/19"
+      "url": "/article/19/react"
     },
     {
       "title": "How React Uses Closure to Avoid Bugs",
       "author": "user2",
       "content": "In React development, closures play a significant role in managing state and avoiding common bugs related to variable scoping and asynchronous behavior. This article explores how React leverages closures effectively and provides best practices for utilizing closures in your React applications.",
       "tags": ["react", "closure", "bugs"],
-      "url": "/article/20"
+      "url": "/article/20/react"
     }
   ]
 }
