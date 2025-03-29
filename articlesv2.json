@@ -1,0 +1,146 @@
+{
+  "articles": [
+    {
+      "title": "Can you alter React props?",
+      "content": "In React, props are fundamental for passing data from parent components to child components. However, a common question arises: can you modify props directly? Let’s dive into this and explore why doing so might lead to unexpected issues, and how you can avoid them.",
+      "tags": ["react", "encapsulation", "props"],
+      "url": "/1",
+      "img": "https://react-ally-app.github.io/ra-data/articles-images/CanYouAlterReactProps.jpg"
+    },
+    {
+      "title": "The Pitfalls of Including Refs in React's useEffect Dependency Array",
+      "content": "In React, refs are often used to store mutable values or access DOM elements directly. However, when using useEffect, refs should not be placed in the dependency array. Why? Lets dive into this concept with some fresh examples.",
+      "tags": ["react", "useEffect", "useRef"],
+      "url": "/2",
+
+      "img": null
+    },
+    {
+      "title": "What is Server-Side Rendering (SSR)?",
+      "content": "Server-Side Rendering (SSR) is a technique used in web development to improve the performance and search engine optimization (SEO) of web applications. In SSR, the HTML content of a page is generated on the server rather than in the browser. This approach contrasts with client-side rendering (CSR), where the browser generates the HTML content after downloading JavaScript, CSS, and other resources.",
+      "tags": ["react", "SSR", "render"],
+      "url": "/3",
+
+      "img": null
+    },
+    {
+      "title": "Introduction to Redux: State Management for React",
+      "content": "In modern web development, managing state in complex applications can become tricky. As your app grows, the flow of data between components can become difficult to maintain, leading to bugs, performance issues, and a tangled codebase. This is where Redux comes in — a predictable state container for JavaScript applications, often used with React to manage the state of an app in a consistent and scalable way.",
+      "tags": ["react", "redux", "state management"],
+      "url": "/4",
+
+      "img": null
+    },
+    {
+      "title": "Redux vs. Context API: Which One to Use and When?",
+      "content": "When building React applications, one of the fundamental challenges is managing state — especially in larger applications where multiple components need access to shared data. In this context, React Context API and Redux are two popular solutions for managing state across components. While both are used to manage global state, they have distinct differences in terms of usage, scalability, and complexity.",
+      "tags": ["react", "context", "redux", "state management"],
+      "url": "/5",
+
+      "img": null
+    },
+    {
+      "title": "Building a Production-Ready React App with Optimal Performance",
+      "content": "React is an incredibly powerful library for building user interfaces, but just like any other front-end technology, building a production-ready React application requires more than just writing code. To ensure that your app performs well and is maintainable at scale, you need to focus on several best practices that can help optimize performance, improve loading times, and ensure a smooth user experience.",
+      "tags": ["react", "performance", "production"],
+      "url": "/6",
+
+      "img": null
+    },
+    {
+      "title": "Exploring React Suspense and Concurrent Mode: The Future of React Rendering",
+      "content": "React has long been a powerful library for building user interfaces, and over the years, it has evolved to provide developers with more efficient ways of rendering, updating, and managing data in their applications. Two of the most exciting innovations in React are Suspense and Concurrent Mode. These features, still relatively new and evolving, promise to revolutionize the way we build and optimize React applications, especially when it comes to performance, user experience, and responsiveness.",
+      "tags": ["react", "suspense", "concurrent mode"],
+      "url": "/7",
+
+      "img": null
+    },
+    {
+      "title": "How to Build a Custom React Hook: Best Practices and Real-World Examples",
+      "content": "React's hook system has revolutionized how developers manage state and side effects in functional components. While React provides a variety of built-in hooks like useState, useEffect, and useContext, the real power comes from custom hooks. Custom hooks allow you to extract and reuse logic across components, keeping your code clean, modular, and maintainable.",
+      "tags": ["react", "hooks"],
+      "url": "/8",
+
+      "img": null
+    },
+    {
+      "title": "Understanding the Virtual DOM: The Heart of React’s Speed and Efficiency",
+      "content": "One of the key features that makes React such a powerful library for building user interfaces is its Virtual DOM. While it might sound like a complex concept, the Virtual DOM is actually one of the reasons why React is so fast and efficient when rendering updates to the UI. But how does it work, and why is it so important? In this article, we will break down what the Virtual DOM is, how it contributes to Reacts speed, and why it’s central to building performant web applications",
+      "tags": ["react", "virtual dom"],
+      "url": "/9",
+
+      "img": null
+    },
+    {
+      "title": "Creating a Design System with React: A Step-by-Step Guide",
+      "content": "In today’s fast-paced development world, maintaining consistency in the user interface (UI) of an application is crucial for both usability and brand identity. A design system is a collection of reusable components, patterns, and guidelines that help teams build consistent, efficient, and scalable UI systems. When paired with React, a powerful JavaScript library for building user interfaces, a design system can significantly enhance the speed and consistency of development while ensuring a smooth user experience across different platforms.",
+      "tags": ["react", "design system"],
+      "url": "/10",
+      "img": null
+    },
+    {
+      "title": "How to Secure Your React Application: Best Practices for Authentication and Authorization",
+      "content": "Building a React application is an exciting journey, but with it comes the responsibility of ensuring that user data and sensitive information remain safe. Authentication and authorization are two fundamental aspects of application security that ensure only the right users can access specific resources in your app.",
+      "tags": ["react", "security", "authentication", "authorization"],
+      "url": "/11",
+      "img": null
+    },
+    {
+      "title": "Mastering Animations in React: A Guide to Smooth, Engaging UIs",
+      "content": "Animations are more than just eye candy — they play a crucial role in enhancing the user experience (UX) by making applications feel more interactive, fluid, and polished. In React, animations can transform a static interface into a dynamic experience that grabs users attention and guides them through your apps flow. Whether it’s for transitions, loading states, or subtle visual feedback, animations can greatly improve how users perceive your apps performance and usability.",
+      "tags": ["react", "animation"],
+      "url": "/12",
+      "img": null
+    },
+    {
+      "title": "The Role of Component Libraries in Modern React Development",
+      "content": "In the fast-paced world of web development, efficiency and consistency are paramount. Component libraries in React play a crucial role in achieving these goals by providing pre-built, reusable components that can be easily integrated into your projects. These libraries not only save development time but also ensure a consistent user experience across applications. This article explores the benefits of using component libraries in React development and highlights some popular options.",
+      "tags": ["react", "component libraries"],
+      "url": "/13",
+      "img": null
+    },
+    {
+      "title": "React Native vs React: What’s the Difference and Which One Should You Use?",
+      "content": "As the mobile app development landscape continues to evolve, developers are presented with a plethora of frameworks and libraries to choose from. Among the most popular and widely used are React and React Native. Despite their similarities, these two technologies cater to different platforms and offer distinct capabilities. So, how do you decide which one to use for your next project?",
+      "tags": ["react", "react native"],
+      "url": "/14",
+      "img": null
+    },
+    {
+      "title": "The Role of Testing in React Development",
+      "content": "Testing is an integral part of React development, ensuring that applications are robust, reliable, and maintainable. By writing tests, developers can catch bugs early, simplify refactoring, an",
+      "tags": ["react", "testing"],
+      "url": "/15"
+    },
+    {
+      "title": "Simplifying Form Management in React with Popular Libraries",
+      "content": "Creating forms in React applications can be complex, especially when dealing with validation, dynamic fields, and other advanced features. Form libraries come to the rescue by providing a range of tools and components to handle form creation and management efficiently. This article delves into the importance of using form libraries in React and highlights some popular options available.",
+      "tags": ["react", "forms", "libraries"],
+      "url": "/16"
+    },
+    {
+      "title": "Introduction to Axios",
+      "content": "Axios is a popular JavaScript library used for making asynchronous HTTP requests from browsers and Node.js. It is designed to be lightweight, flexible, and easy to use, making it a preferred choice for developers when dealing with data fetching in web applications.",
+      "tags": ["axios", "http", "requests"],
+      "url": "/17"
+    },
+    {
+      "title": "Common Mistakes Beginners Make in React and How to Avoid Them",
+      "content": "React is a powerful JavaScript library, but it can be challenging for beginners to grasp its concepts fully. Here are some common mistakes that beginners often make when starting with React development:",
+      "tags": ["react", "beginners", "mistakes"],
+      "url": "/18"
+    },
+    {
+      "title": "Mastering Local Storage in React: Storing and Retrieving Data Efficiently",
+      "content": "Storing data in local storage is a common requirement in web applications, including those built with React. Local storage provides a simple way to persist user data locally within the browser, allowing applications to remember",
+      "tags": ["react", "local", "storage"],
+      "url": "/19"
+    },
+    {
+      "title": "Progressive Web Apps (PWAs)",
+      "content": "Progressive Web Apps (PWAs) combine the best of web and mobile apps, offering enhanced capabilities, reliability, and installability while reaching anyone, anywhere, on any device with a single codebase. PWAs use modern web capabilities to deliver an app-like experience to users, enabling faster",
+      "tags": ["web", "apps"],
+      "url": "/20"
+    }
+  ]
+}
