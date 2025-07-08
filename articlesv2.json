@@ -5,7 +5,7 @@
       "content": "In React, props are fundamental for passing data from parent components to child components. However, a common question arises: can you modify props directly? Let’s dive into this and explore why doing so might lead to unexpected issues, and how you can avoid them.",
       "tags": ["react", "encapsulation", "props"],
       "url": "/1",
-      "img": "https://react-ally-app.github.io/ra-data/articles-images/CanYouAlterReactProps.jpg"
+      "img": null
     },
     {
       "title": "The Pitfalls of Including Refs in React's useEffect Dependency Array",
